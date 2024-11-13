@@ -1,0 +1,12 @@
+C:\Users\chebm\source\repos\MovieManagementSystem\MovieManagementSystem\MovieSystem.Infrastructure\bin\Debug\net8.0\MovieSystem.Infrastructure.deps.json
+C:\Users\chebm\source\repos\MovieManagementSystem\MovieManagementSystem\MovieSystem.Infrastructure\bin\Debug\net8.0\MovieSystem.Infrastructure.dll
+C:\Users\chebm\source\repos\MovieManagementSystem\MovieManagementSystem\MovieSystem.Infrastructure\bin\Debug\net8.0\MovieSystem.Infrastructure.pdb
+C:\Users\chebm\source\repos\MovieManagementSystem\MovieManagementSystem\MovieSystem.Infrastructure\obj\Debug\net8.0\MovieSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chebm\source\repos\MovieManagementSystem\MovieManagementSystem\MovieSystem.Infrastructure\obj\Debug\net8.0\MovieSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\chebm\source\repos\MovieManagementSystem\MovieManagementSystem\MovieSystem.Infrastructure\obj\Debug\net8.0\MovieSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\chebm\source\repos\MovieManagementSystem\MovieManagementSystem\MovieSystem.Infrastructure\obj\Debug\net8.0\MovieSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\chebm\source\repos\MovieManagementSystem\MovieManagementSystem\MovieSystem.Infrastructure\obj\Debug\net8.0\MovieSystem.Infrastructure.sourcelink.json
+C:\Users\chebm\source\repos\MovieManagementSystem\MovieManagementSystem\MovieSystem.Infrastructure\obj\Debug\net8.0\MovieSystem.Infrastructure.dll
+C:\Users\chebm\source\repos\MovieManagementSystem\MovieManagementSystem\MovieSystem.Infrastructure\obj\Debug\net8.0\refint\MovieSystem.Infrastructure.dll
+C:\Users\chebm\source\repos\MovieManagementSystem\MovieManagementSystem\MovieSystem.Infrastructure\obj\Debug\net8.0\MovieSystem.Infrastructure.pdb
+C:\Users\chebm\source\repos\MovieManagementSystem\MovieManagementSystem\MovieSystem.Infrastructure\obj\Debug\net8.0\ref\MovieSystem.Infrastructure.dll
