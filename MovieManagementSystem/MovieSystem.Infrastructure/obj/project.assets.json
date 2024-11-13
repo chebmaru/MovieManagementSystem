@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "MovieSystem.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MovieSystem.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MovieSystem.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieSystem.Application.dll": {}
+        }
+      },
+      "MovieSystem.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MovieSystem.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieSystem.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MovieSystem.Application/1.0.0": {
+      "type": "project",
+      "path": "../MovieSystem.Application/MovieSystem.Application.csproj",
+      "msbuildProject": "../MovieSystem.Application/MovieSystem.Application.csproj"
+    },
+    "MovieSystem.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MovieSystem.Domain/MovieSystem.Domain.csproj",
+      "msbuildProject": "../MovieSystem.Domain/MovieSystem.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "MovieSystem.Application >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\chebm\\.nuget\\packages\\": {}
@@ -34,7 +71,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\chebm\\source\\repos\\MovieManagementSystem\\MovieManagementSystem\\MovieSystem.Application\\MovieSystem.Application.csproj": {
+              "projectPath": "C:\\Users\\chebm\\source\\repos\\MovieManagementSystem\\MovieManagementSystem\\MovieSystem.Application\\MovieSystem.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

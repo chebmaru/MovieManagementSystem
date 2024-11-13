@@ -231,7 +231,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\chebm\\source\\repos\\MovieManagementSystem\\MovieManagementSystem\\MovieSystem.Application\\MovieSystem.Application.csproj": {
+                "projectPath": "C:\\Users\\chebm\\source\\repos\\MovieManagementSystem\\MovieManagementSystem\\MovieSystem.Application\\MovieSystem.Application.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
