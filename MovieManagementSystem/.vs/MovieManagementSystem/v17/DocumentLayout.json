@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chebm\\source\\repos\\MovieManagementSystem\\MovieManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{888AF73F-1BF0-48FA-9EC1-C6F372B02AA6}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|c:\\users\\chebm\\source\\repos\\moviemanagementsystem\\moviemanagementsystem\\moviesystem.infrastructure\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{888AF73F-1BF0-48FA-9EC1-C6F372B02AA6}|MovieSystem.Infrastructure\\MovieSystem.Infrastructure.csproj|solutionrelative:moviesystem.infrastructure\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\chebm\\source\\repos\\MovieManagementSystem\\MovieManagementSystem\\MovieSystem.Infrastructure\\readme.txt",
+              "RelativeDocumentMoniker": "MovieSystem.Infrastructure\\readme.txt",
+              "ToolTip": "C:\\Users\\chebm\\source\\repos\\MovieManagementSystem\\MovieManagementSystem\\MovieSystem.Infrastructure\\readme.txt",
+              "RelativeToolTip": "MovieSystem.Infrastructure\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-13T20:29:39.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
